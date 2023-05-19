@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome_Accounting_exercise", "Welcome_Accounting_exercise\Welcome_Accounting_exercise.csproj", "{2ED713BF-8E45-4A90-8EA0-9E2FC1E2A25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED713BF-8E45-4A90-8EA0-9E2FC1E2A25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED713BF-8E45-4A90-8EA0-9E2FC1E2A25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED713BF-8E45-4A90-8EA0-9E2FC1E2A25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED713BF-8E45-4A90-8EA0-9E2FC1E2A25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D64E4D-F129-4F19-8D84-EC94E0544F9A}
+	EndGlobalSection
+EndGlobal
